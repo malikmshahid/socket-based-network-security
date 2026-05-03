@@ -1,0 +1,156 @@
+[
+  {
+    "id": 6,
+    "timestamp": "2026-04-30 16:44:38",
+    "target_ip": "192.168.72.1",
+    "risk_score": 21,
+    "risk_level": "LOW",
+    "open_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 6
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-30 12:13:07",
+    "target_ip": "192.168.204.152",
+    "risk_score": 21,
+    "risk_level": "LOW",
+    "open_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 6
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-05 16:22:21",
+    "target_ip": "192.168.72.1",
+    "risk_score": 21,
+    "risk_level": "LOW",
+    "open_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 6
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-03-13 20:17:42",
+    "target_ip": "192.168.100.44",
+    "risk_score": 21,
+    "risk_level": "LOW",
+    "open_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 6
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-03-09 10:50:43",
+    "target_ip": "10.17.46.51",
+    "risk_score": 26,
+    "risk_level": "LOW",
+    "open_ports": [
+      80,
+      135,
+      139,
+      445,
+      3306,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 7
+  },
+  {
+    "id": 1,
+    "timestamp": "2026-03-04 11:10:05",
+    "target_ip": "192.168.157.152",
+    "risk_score": 26,
+    "risk_level": "LOW",
+    "open_ports": [
+      80,
+      135,
+      139,
+      445,
+      3306,
+      3389
+    ],
+    "critical_ports": [
+      135,
+      139,
+      445,
+      3389
+    ],
+    "firewall": "ENABLED",
+    "antivirus": "ACTIVE",
+    "os_updates": "UP-TO-DATE",
+    "hostname": "DESKTOP-H8F8L77",
+    "threats_count": 4,
+    "recs_count": 7
+  }
+]
